@@ -5,3 +5,11 @@ This project demonstrates the implementation of Augmented Reality (AR) using Ope
 2. Perspective Transformation: Applying a homography transformation to overlay the display image onto the detected marker, making it appear as if it's part of the real-world scene.
 3. Image Masking: Generating binary masks to isolate specific areas of the transformed image for blending with the source image.
 4. Augmented Reality Visualization: Combining the original image with the transformed content to create a realistic AR effect.
+<br>
+Technologies Used:
+<br>
+1. Python
+2. OpenCv
+3. Numpy
+4. Aruco Markers
+5. Matplotlib
