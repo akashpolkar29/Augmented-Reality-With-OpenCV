@@ -9,7 +9,11 @@ This project demonstrates the implementation of Augmented Reality (AR) using Ope
 Technologies Used:
 <br>
 1. Python
+<br>
 2. OpenCv
+<br>
 3. Numpy
+<br>
 4. Aruco Markers
+<br>
 5. Matplotlib
