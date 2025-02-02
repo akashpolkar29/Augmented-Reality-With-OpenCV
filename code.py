@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 import cv2.aruco as aruco
-s
+
 ### Read images ###
 img_path = r"E:\Projects\CV\Task1\Images\20221115_113340.jpg" 
 display_img_path = r"E:\Projects\CV\Task1\Images\cov.jpg" 
